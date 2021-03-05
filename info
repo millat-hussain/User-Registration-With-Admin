@@ -1,0 +1,20 @@
+This is a mini Project. This project describes in two Modules. One is the User module and the second one is the admin panel.
+User Email/Password : demouser@gmail.com/ Test@123
+Admin Username/Password :  admin/Test@123
+Note: Forgot password will not work on localhost
+
+User Module
+In user module, user can register yourself. After Registration user can log in with own email id and password.
+if the user forgot their own password then user can request for password using their own email id.
+User Registration
+User Login
+Forgot Password
+Note: Forgot password will not work on localhost.
+
+Admin Panel
+Admin can manage all registered users. Admin can update the user information and delete the user.
+Admin can change own password
+Admin Login
+Manage users
+Edit user information
+Change Password(admin)
